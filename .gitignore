@@ -1,0 +1,5 @@
+# maintain the following list, to make sure they are not changed any more. 
+LogAdvisor.html
+
+# ignore all obj and bin folders (even in subdirectories)
+*.DS_Store
